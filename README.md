@@ -5,6 +5,4 @@ Completed Tasks :
 Hardware Working
 
 Work left to do :
-Setting up the networking
-Traning Model
-Making PCB, 3D casing
+Setting up the networking, Traning Model, Making PCB, 3D casing
